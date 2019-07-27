@@ -17,7 +17,7 @@
 [![keyword of this version no. 1](https://img.shields.io/badge/keyword-computer&nbsp;vision-brown.svg)](https://github.com/rubenandrebarreiro/do-you-want-to-be-a-superheroe/)
 [![keyword of this version no. 2](https://img.shields.io/badge/keyword-facial&nbsp;detection&nbsp;and&nbsp;recognition-brown.svg)](https://github.com/rubenandrebarreiro/do-you-want-to-be-a-superheroe/)
 [![keyword of this version no. 3](https://img.shields.io/badge/keyword-superheroes-brown.svg)](https://github.com/rubenandrebarreiro/do-you-want-to-be-a-superheroe/)
-[![keyword of this version no. 4](https://img.shields.io/badge/keyword-masks&nbsp;&&nbsp;filters-brown.svg)](https://github.com/rubenandrebarreiro/do-you-want-to-be-a-superheroe/)
+[![keyword of this version no. 4](https://img.shields.io/badge/keyword-masks&nbsp;and&nbsp;filters-brown.svg)](https://github.com/rubenandrebarreiro/do-you-want-to-be-a-superheroe/)
 
 
 [![technology used no. 1](https://img.shields.io/badge/built&nbsp;with-python-red.svg)](https://www.python.org/) [![technology used no. 2](https://img.shields.io/badge/built&nbsp;with-opencv-red.svg)](https://opencv.org/)
