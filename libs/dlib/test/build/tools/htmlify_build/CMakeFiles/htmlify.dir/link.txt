@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG  -rdynamic CMakeFiles/htmlify.dir/htmlify.cpp.o CMakeFiles/htmlify.dir/to_xml.cpp.o  -o htmlify ../../dlib_build/libdlib.a -lpthread -lnsl -lSM -lICE -lX11 -lXext -lpng -lz -ljpeg -lopenblas -lsqlite3 

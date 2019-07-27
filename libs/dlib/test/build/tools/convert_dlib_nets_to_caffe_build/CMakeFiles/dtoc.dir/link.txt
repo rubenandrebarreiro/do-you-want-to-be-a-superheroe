@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG  -rdynamic CMakeFiles/dtoc.dir/main.cpp.o  -o dtoc ../../dlib_build/libdlib.a -lpthread -lnsl -lSM -lICE -lX11 -lXext -lpng -lz -ljpeg -lopenblas -lsqlite3 
